@@ -1,29 +1,62 @@
-## Hello, I am Damak !
+## Hola! My Friend ,
+<h3 align="left">
+ <abc>
+  <br> I'm Damak Varshney.<br>
+  <br> I'm a React Developer. <br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ </abc>
+</h3>
 
+  **My Opinion:**
+  
 
- ![](https://komarev.com/ghpvc/?username=damakvarshney&style=flat-square&color=blue&label=Welcomes)
- 
+People say in Android Development,
+   Studio is the base for Starting,
+   Flutter is the upcoming Future.
+   But what they didn't realise the Reality,
+   Which is React,
+   React is now and forever and also it is not going elsewhere.
+   
 
+**Currently working with:**
+-React Native 
+-React js
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+**Confident In :**
+-Android Studio.
+-Java.
+-Firebase.
 
+**Learning:**
+-Postman Api
+
+**Currently focused on building:**
+-Building Chat Bot   
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=damakvarshney&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damakvarshney&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=damakvarshney.damakvarshney)
-## People out there seems to beleive in a myth that "All great innovation are being discovered in Past."
-## And I am here just to make those myths turn Untrue 
+
+  **Motivation:**
+
+ People out there seems to beleive in a myth that "All great innovation are being discovered in Past."
+And I am here just to turn all those myths Untrue.
+
+  **Social Media:**
+<a href="https://twitter.com/TheTweetOfSKR">
+  <img align="left" alt="Shubham Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/imskr/">
+  <img align="left" alt="Shubham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.codechef.com/users/imskr">
+  <img align="left" alt="Shubham's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<a href="https://medium.com/@shubhamkrai123">
+  <img align="left" alt="Shubham's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+</a>
+<a href="https://www.buymeacoffee.com/imskr">
+  <img align="left" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" />
+</a>

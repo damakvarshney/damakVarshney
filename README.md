@@ -1,12 +1,5 @@
-## Hola! My Friend ,
-<h3 align="left">
- <abc>
-  <br> I'm Damak Varshney.<br>
-  <br> I'm a React Developer. <br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
- </abc>
-</h3>
+<img src="https://github.com/damakvarshney/damakvarshney/blob/master/header.png?raw=true">
+
 
   **My Opinion:**
   
@@ -14,10 +7,13 @@
 People say in Android Development,
    Studio is the base for Starting,
    Flutter is the upcoming Future.
-   But what they didn't realise the Reality,
+   But what they didn't realise, Is Reality,
    Which is React,
    React is now and forever and also it is not going elsewhere.
    
+   <h3>things i code with</h3>
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/gimp/gimp-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/twitter/twitter-original.svg" width="40px">
 
 **Currently working with:**
 -React Native 

@@ -13,8 +13,7 @@ People say in Android Development,
    
    <h3>things i code with</h3>
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicon.dev/devicon.git/icons/android/android-plain-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://simpleicons.org/icons/adobexd.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://simpleicons.org/icons/postman.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://simpleicons.org/icons/firebase.svg" width="40px" backgroundColor="#FFCA28">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/888/888839.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/1548/1548740.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/cute-clipart/64/000000/adobe-xd.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/firebase.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/34/20200802160428%21Android_Studio_icon.svg/120px-Android_Studio_icon.svg.png" width="40px" backgroundColor="#FFCA28">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/541/541488.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/3143/3143478.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/37/37256.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/kotlin.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
@@ -45,19 +44,22 @@ People say in Android Development,
  People out there seems to beleive in a myth that "All great innovation are being discovered in Past."
 And I am here just to turn all those myths Untrue.
 
-  **Social Media:**
-<a href="https://twitter.com/TheTweetOfSKR">
-  <img align="left" alt="Shubham Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  **Connect with Me:**
+<a href="https://www.instagram.com/xo.damak.xo">
+  <img align="left" alt=" Damak's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/3437/3437390.svg" />
 </a>
-<a href="https://www.linkedin.com/in/imskr/">
-  <img align="left" alt="Shubham's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/damak-varshney-9bb411193/">
+  <img align="left" alt="Damak's LinkdeIN" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
-<a href="https://www.codechef.com/users/imskr">
-  <img align="left" alt="Shubham's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://www.hackerrank.com/damakvarshney">
+  <img align="left" alt="Shubham's Codechef" width="22px" src="https://img.icons8.com/windows/32/000000/hackerrank.png"/>
 </a>
-<a href="https://medium.com/@shubhamkrai123">
-  <img align="left" alt="Shubham's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+<a href="https://in.pinterest.com/damakvarshney/">
+  <img align="left" alt="Shubham's Codechef" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/220/220214.svg"/>
 </a>
-<a href="https://www.buymeacoffee.com/imskr">
-  <img align="left" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" />
+<a href="damakvarshney@gmail.com">
+  <img align="left" alt="Shubham's Blog" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />
+</a>
+<a href="buymeacoff.ee/damak">
+  <img align="left" alt="Buy me a Coffee" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/3081/3081528.svg" />
 </a>

@@ -62,6 +62,6 @@ And I am here just to turn all those myths Untrue.
 <a href="damakvarshney@gmail.com">
   <img align="left" alt="Damak's MailID" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />
 </a>
-<a href="buymeacoff.ee/damak">
+<a href="https://www.buymeacoffee.com/damak">
   <img align="left" alt="Buy me a Coffee" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/3081/3081528.svg" />
 </a>

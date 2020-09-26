@@ -1,7 +1,19 @@
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 <img src="https://github.com/damakvarshney/damakvarshney/blob/master/header.png?raw=true">
 
-  **About Me:**
- 
+  ## 🧐 About
+
+-     I just love to learn, need to be Mentored,  So Connect with Me !!  
+- 🏄‍ Community guy who loves being involved in communities and help students grow
+- 🌱 I love to speak at public events and have been a speaker at many events.
+- 👯 And Many More...
+- 💬 Ask me about anything and everything!
+- 📫 How to reach me: message me at [Whatsapp](https://wa.me/918077293920)
+- ⚡ Fun fact: I love meeting new people and eating food!
+- 💬 Ping Me about #APIS, #REACT, #REACT_NATIVE, #ANDROID_STUDIO, #POSTMAN and anything you like
+
+---
 
 
   **My Opinion:**

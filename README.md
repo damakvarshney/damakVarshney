@@ -1,10 +1,12 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
+<img src="https://github.com/damakvarshney/damakvarshney/blob/master/header.png" />
 
   ## 🧐 About
 
--     I just love to learn, need to be Mentored,  So Connect with Me !!  
-- 🏄‍ Community guy who loves being involved in communities and help students grow
+- 🏄‍ Love to Learn.  
+- 🏄‍ Like to be Mentored.
+- 🏄‍ I am a Community guy who loves being involved in Communities and help Students grow.
 - 🌱 I love to speak at public events and have been a speaker at many events.
 - 👯 And Many More...
 - 💬 Ask me about anything and everything!

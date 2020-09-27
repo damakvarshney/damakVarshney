@@ -47,9 +47,6 @@ And I am here just to turn all those myths Untrue.
 <a href="https://www.linkedin.com/in/damak-varshney-9bb411193/">
   <img align="left" alt="Damak's LinkdeIN" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
 </a>
-<a href="https://www.hackerrank.com/damakvarshney">
-  <img align="left" alt="Damak's HackeRank" width="22px" src="https://img.icons8.com/windows/32/000000/hackerrank.png"/>
-</a>
 <a href="https://in.pinterest.com/damakvarshney/">
   <img align="left" alt="Damak's Pinterest" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/220/220214.svg"/>
 </a>

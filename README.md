@@ -2,15 +2,17 @@
 
 <img src="https://github.com/damakvarshney/damakvarshney/blob/master/header.png" />
 
-  ## 🧐 About
+  ## 🧐 About Me
 
-- 🏄‍ Love to Learn.  
-- 🏄‍ Like to be Mentored.
-- 🏄‍ I am a Community guy who loves being involved in Communities and help Students grow.
+- 🏄‍ Community Guy || Love to Learn, Share and be mentored. 
 - 🏄‍ I love to speak at public events and have also been a speaker at many events.
 - 🏄‍ Fun fact: I love meeting new people and eating food!
 - 🏄‍ Ask me about anything and everything!
 - 💬 `How to reach me: message me at [Whatsapp](https://wa.me/918077293920)
+
+## Resume :
+<a href="https://docs.google.com/document/d/14Q_33FKs7RzpVeLAkfN1FsHIy4ptq-ABk02Oba-PrfU/edit?usp=sharing">Download or View My Resume</a>
+
 ---
 
   **My Opinion:**
@@ -27,16 +29,12 @@ People say in Android Development,
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/888/888839.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/1548/1548740.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/cute-clipart/64/000000/adobe-xd.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/firebase.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/34/20200802160428%21Android_Studio_icon.svg/120px-Android_Studio_icon.svg.png" width="40px" backgroundColor="#FFCA28">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/541/541488.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/3143/3143478.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/37/37256.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/kotlin.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/javascript.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
- **Approch Me**
+
+ **Stats**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=damakvarshney&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damakvarshney&hide=TeX&layout=compact)
 
-
-  **My Motivation:**
-
- People out there seems to beleive in a myth that "All great innovation are being discovered in Past."
-And I am here just to turn all those myths Untrue.
 
   **Connect with Me:**
   

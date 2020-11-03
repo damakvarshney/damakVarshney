@@ -5,7 +5,6 @@
   ## 🧐 About Me
 
 - 🏄‍ Community Guy || Love to Learn, Share and be mentored. 
-- 🏄‍ I love to speak at public events and have also been a speaker at many events.
 - 🏄‍ Fun fact: I love meeting new people and eating food!
 - 🏄‍ Ask me about anything and everything!
 - 💬 `How to reach me: message me at [Whatsapp](https://wa.me/918077293920)
